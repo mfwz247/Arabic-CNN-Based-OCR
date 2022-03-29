@@ -63,7 +63,7 @@ So to implement it i used the code here: https://pyimagesearch.com/2020/06/22/tu
 
 which splits the image into ROI's (Region of interests) and search for the characters.
 
-## Fourth Approach: Mimicing an actual OCR (Reinforcement Learning)
+## Fourth Approach: Mimicking an actual OCR (Reinforcement Learning)
 
 we can actually make an ocr that already works perfectly with arabic to giveback its results to the model for every batch!
 
