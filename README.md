@@ -3,7 +3,7 @@ object detection based
 
 Codes are still under development
 
-Good morning! This is Mohamed Fawzy.
+Hi, This is Mohamed Fawzy.
 
 For the stubborn case of arabic handwritten words recognition which is so hard due to the hierearchy of the word itself...
 
