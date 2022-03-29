@@ -1,6 +1,7 @@
 # Arabic-CNN-Based-OCR
 object detection based
 
+Codes are still under development
 
 Good morning! This is Mohamed Fawzy.
 
